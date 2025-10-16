@@ -1,0 +1,2 @@
+rootProject.name = "Jobverse-Android"
+include(":app")
