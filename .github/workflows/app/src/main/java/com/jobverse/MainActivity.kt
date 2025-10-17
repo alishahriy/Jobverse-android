@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             MaterialTheme {
                 Surface {
-                    Text(text = "Welcome to Jobverse!")
+                    Text(text = "Hello Jobverse!")
                 }
             }
         }
